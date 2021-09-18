@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "400859336444",
+    "project_id": "socius-f717a",
+    "storage_bucket": "socius-f717a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400859336444:android:79f56c8c4bdfb0b8175179",
+        "android_client_info": {
+          "package_name": "com.example.socius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400859336444-ppec4uv3672sslgftbf9p5ehccvchfeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socius",
+            "certificate_hash": "1d385c1c907fa6d3163d79a50bffae7993058b29"
+          }
+        },
+        {
+          "client_id": "400859336444-pgq228s6pho558uuvk8pmd6lqlvf6l2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXXPU3KUCqHJTyQk6iNuz_Gv8XuJcaVK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400859336444-pgq228s6pho558uuvk8pmd6lqlvf6l2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
